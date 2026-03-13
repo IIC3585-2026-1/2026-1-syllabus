@@ -2,6 +2,17 @@
 
 Estos recursos son complementarios. Las clases están subidas en Canvas.
 
+## Versiones anteriores
+
+- [2025](https://github.com/IIC3585)
+- [2024](https://github.com/IIC3585-2024)
+- [2023](https://github.com/IIC3585-2023)
+- [2022](https://github.com/IIC3585-2022)
+- [2022](https://github.com/IIC3585-2021)
+- [2021](https://github.com/IIC3585-2021)
+- [2019](https://github.com/iic3585-2019)
+- [2016](https://github.com/IIC3585-2016-2)
+
 ## Recursos generales
 
 - [Evan You - Frontend tooling, past and future](https://www.youtube.com/watch?v=5mn3EpWCcJs&t=16343s)
@@ -24,4 +35,4 @@ Las tareas son públicas, les recomendamos revisar repositorios de semestres pas
 >
 > Deben tener **todo** el material que usen en sus repositorios, y subido los demos para que puedan ser probados.
 >
-> Consideren que **más de la mitad del trabajo se califica en ir “más allá”** (calidad, elegancia, mantenibilidad, documentación), poder explicar bien el diseño e implementación, y mostrar aspectos interesantes relacionados.
+> Consideren que **más de la mitad del trabajo se califica en poder explicar bien el diseño e implementación, y mostrar aspectos interesantes relacionados.
